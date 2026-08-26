@@ -46,6 +46,11 @@ to reproduce the calibration curve from the sample in this repo. On the sample,
 **6 of 7 confidence bands are statistically consistent with perfect calibration**;
 the seventh is not distinguishable either way at that sample size.
 
+Prefer to run it without installing anything? The same notebook runs on Kaggle
+against the same file:
+[dataset](https://www.kaggle.com/datasets/thierryseverinlamien/table-tennis-pre-match-elo-ratings-sample)
+ · [notebook](https://www.kaggle.com/code/thierryseverinlamien/is-this-table-tennis-elo-model-actually-calibrated)
+
 ## Quick start
 
 ```python
